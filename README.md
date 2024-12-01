@@ -1,5 +1,5 @@
 
-# Christmas Greeting Webpage 🎄❄️  
+# Christmas Greeting Webpage 
 
 This is a simple and cheerful Christmas greeting webpage created using HTML and CSS. The page features festive decorations, including text, icons, and animated snowflakes, to celebrate the holiday season.
 
