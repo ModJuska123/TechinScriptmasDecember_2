@@ -22,7 +22,6 @@ Navigate to the project folder:
 Run index.html in your browser to view the festive greeting:
     npm run dev
 
-
 🎨 Design Features
 Festive Colors: Bright and cheerful color palette.
 Icons: Christmas-themed icons like.
