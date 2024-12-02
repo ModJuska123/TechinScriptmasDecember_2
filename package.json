@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "dead-server --host=localhost --port=4606"
+    "dev": "dead-server --host=localhost --port=4607"
   },
   "keywords": [],
   "author": "Modestas Juska",
